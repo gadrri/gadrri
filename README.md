@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gadrri
-- 👀 I’m interested in machine learning and app development
+- 👀 I’m interested in data science and web development.
 - 🌱 I’m currently learning python 
 
 
