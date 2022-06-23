@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gadrri
 - 👀 I’m interested in data science and web development.
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning Javascript and python
 
 
 <!---
