@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gadrri
-- 👀 I’m interested in soft development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning javascript, back-end dev and python
 
 
